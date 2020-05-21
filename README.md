@@ -38,7 +38,7 @@ Command line application to save notes
 * note read --title"\<title\>"" : This command will read the note with matching title.
 * note list: This command will print all the notes you have saved.
 
-### Uninstallation
+## Uninstallation
 
 To unistall the application run
 ```console
