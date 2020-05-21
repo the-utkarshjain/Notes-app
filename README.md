@@ -8,6 +8,8 @@ Command line application to save notes
    ```console
    $ brew install node
    ```
+   **Note:** *brew* will only run if you have installed [brew](https://brew.sh/) in your system. Feel free to use any other method to install node and npm.
+
 2. ### Verifying installation
    Run this to check if the installation went right
    ```console
@@ -35,7 +37,7 @@ Command line application to save notes
 * note \<command name\> --help: This will show the description and the required command line arguments.
 * note add --title="\<title\>" --body="\<body\>" : This command will add a note with the provided title and body.
 * note remove --title="\<title\>" : This command will remove any note with the matching title.
-* note read --title"\<title\>"" : This command will read the note with matching title.
+* note read --title="\<title\>" : This command will read the note with matching title.
 * note list: This command will print all the notes you have saved.
 
 ## Uninstallation
