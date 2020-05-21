@@ -27,7 +27,7 @@ Command line application to save notes
 4. ### Install the application
    Using the terminal get into the folder and run
    ```console
-   $ npm install -g .
+   $ sudo npm install -g .
    ```
 ## Use
 
@@ -42,5 +42,5 @@ Command line application to save notes
 
 To unistall the application run
 ```console
-$ npm uninstall -g notes-app
+$ sudo npm uninstall -g notes-app
 ```
