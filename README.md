@@ -29,7 +29,7 @@ Command line application to save notes
    ```console
    $ npm install -g .
    ```
-### Use
+## Use
 
 * note --help : This will show all the available commands.
 * note \<command name\> --help: This will show the description and the required command line arguments.
